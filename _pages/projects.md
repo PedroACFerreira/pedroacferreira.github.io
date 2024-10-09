@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: Images
+permalink: /Images/
 description: Illustration Portfolio.
 nav: true
 nav_order: 2
