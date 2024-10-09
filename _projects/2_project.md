@@ -4,7 +4,7 @@ title: SciComm
 description: Images designed for SciComm
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Portfolio
 giscus_comments: true
 ---
 
