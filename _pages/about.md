@@ -18,8 +18,4 @@ social: false # includes social icons at the bottom of the page
 ---
 
 Illustration portfolio for all the designs and images I developed during my PhD in Neuroscience at University of Coimbra.
-
-profile:
-  align: left
-  image: about_img.jpg
-  image_circular: false # crops the image to make it circular
+![image](/pedroacferreira.github.io/assets/about_img.jpg)
