@@ -18,4 +18,4 @@ social: false # includes social icons at the bottom of the page
 ---
 
 Illustration portfolio for all the designs and images I developed during my PhD in Neuroscience at University of Coimbra.
-![image]([https://github.com/PedroACFerreira/pedroacferreira.github.io/assets/img/about_img.jpg])
+![image](https://github.com/PedroACFerreira/pedroacferreira.github.io/assets/img/about_img.jpg)
