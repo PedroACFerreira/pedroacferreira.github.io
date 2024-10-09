@@ -5,7 +5,7 @@ permalink: /projects/
 description: Illustration Portfolio.
 nav: true
 nav_order: 3
-display_categories: [Research, SciComm]
+display_categories: [Portfolio]
 horizontal: false
 ---
 
