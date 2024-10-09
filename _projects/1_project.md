@@ -4,7 +4,7 @@ title: Research
 description: Images for research and review articles
 img: assets/img/research.jpg
 importance: 1
-category: Research
+category: Portfolio
 related_publications: false
 ---
 
