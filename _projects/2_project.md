@@ -12,8 +12,6 @@ Here are some of the images that were designed for SciComm and other events
 
 <br />
 <br />
-<br />
-
 
 <div class="row">
     <div class="col-xxl mt-3 mt-md-0">

@@ -11,7 +11,6 @@ related_publications: false
 Here you can find some of the images I designed for research and review articles.
 <br />
 <br />
-<br />
 
 
 <div class="row">
