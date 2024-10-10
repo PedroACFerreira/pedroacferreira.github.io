@@ -25,20 +25,17 @@ Here you can find some of the images I designed for research and review articles
 <br />
 <br />
 
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-lg mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/4.png" title="Cerebellar Circuit" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-lg-8 mt-3 mt-md-0 align-self-center">
+        {% include figure.liquid loading="eager" path="assets/img/Microglia GIF.gif" title="Microglia Gif" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-lg mt-3 mt-md-0 align-self-center">
-        {% include figure.liquid path="assets/img/5.png" title="Immune system in the brain" class="img-fluid rounded z-depth-1" %}
+    <div class="col-lg-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/OFT.gif" title="OFT Gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left - Cerebellar circuit and connectivity to other brain regions<br />
-    Right - Immune system in the brain - included in the review article "The old guard: Age-related changes in microglia and their consequences"<br />
-    @ doi: <a href="https://www.sciencedirect.com/science/article/pii/S0047637421000841">10.1016/j.mad.2021.111512</a>
+    Left - 3D Reconstruction of a microglia cell that engulfed neuronal material<br />
+    Right - Open field test snippet with heatmap overlay
 </div>
 
 <br />
@@ -57,18 +54,15 @@ Here you can find some of the images I designed for research and review articles
 <br />
 <br />
 
-  
-<div class="row">
-    <div class="col-lg-8 mt-3 mt-md-0 align-self-center">
-        {% include figure.liquid loading="eager" path="assets/img/Microglia GIF.gif" title="Microglia Gif" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-lg-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/OFT.gif" title="OFT Gif" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-lg mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/16.png" title="Cerebellar Circuit" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left - 3D Reconstruction of a microglia cell that engulfed neuronal material<br />
-    Right - Open field test snippet with heatmap overlay
+    Left - Cerebellar circuit and connectivity to other brain regions<br />
+    Right - Immune system in the brain - included in the review article "The old guard: Age-related changes in microglia and their consequences"<br />
+    @ doi: <a href="https://www.sciencedirect.com/science/article/pii/S0047637421000841">10.1016/j.mad.2021.111512</a>
 </div>
 
 <br />
