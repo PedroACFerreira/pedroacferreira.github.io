@@ -8,7 +8,7 @@ category: Portfolio
 related_publications: false
 ---
 
-Here you can find some of the images I designed for research and review articles.
+Here you can find some of the images I designed for research and review articles!
 <br />
 <br />
 
@@ -19,7 +19,7 @@ Here you can find some of the images I designed for research and review articles
     </div>
 </div>
 <div class="caption">
-  Representative illustration of cerebellar microglia development.
+  Representative image of cerebellar microglia development.
 </div>
 
 <br />
@@ -36,8 +36,9 @@ Here you can find some of the images I designed for research and review articles
     </div>
 </div>
 <div class="caption">
-    Left - Cerebellar circuit - included in my PhD thesis<br />
-    Right - Immune system in the brain - included in "The old guard: Age-related changes in microglia and their consequences"<br />@ doi: <a href="https://www.sciencedirect.com/science/article/pii/S0047637421000841">10.1016/j.mad.2021.111512</a>
+    Left - Cerebellar circuit and connectivity to other brain regions<br />
+    Right - Immune system in the brain - included in the review article "The old guard: Age-related changes in microglia and their consequences"<br />
+    @ doi: <a href="https://www.sciencedirect.com/science/article/pii/S0047637421000841">10.1016/j.mad.2021.111512</a>
 </div>
 
 <br />
@@ -49,7 +50,8 @@ Here you can find some of the images I designed for research and review articles
     </div>
 </div>
 <div class="caption" align="center">
-    Microglia functions - Included in review article "Microglia‐dependent remodeling of neuronal circuits" @ doi: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jnc.15689">10.1111/jnc.15689</a>
+    Microglia functions - Included in the review article "Microglia‐dependent remodeling of neuronal circuits"<br />
+    @ doi: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jnc.15689">10.1111/jnc.15689</a>
 </div>
 
 <br />
@@ -94,7 +96,8 @@ Here you can find some of the images I designed for research and review articles
     
 </div>
 <div class="caption">
-    Microglia ontogeny - Included in review article "Microglia‐dependent remodeling of neuronal circuits" @ doi: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jnc.15689">10.1111/jnc.15689</a>
+    Microglia ontogeny - Included in the review article "Microglia‐dependent remodeling of neuronal circuits"<br />
+    @ doi: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jnc.15689">10.1111/jnc.15689</a>
 </div>
 
 <br />
@@ -107,5 +110,6 @@ Here you can find some of the images I designed for research and review articles
     </div>
 </div>
 <div class="caption">
-    Brain aging - included in "The old guard: Age-related changes in microglia and their consequences" @ doi: <a href="https://www.sciencedirect.com/science/article/pii/S0047637421000841">10.1016/j.mad.2021.111512</a>
+    Brain aging - included in the review article "The old guard: Age-related changes in microglia and their consequences" <br />
+    @ doi: <a href="https://www.sciencedirect.com/science/article/pii/S0047637421000841">10.1016/j.mad.2021.111512</a>
 </div>

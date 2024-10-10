@@ -8,7 +8,7 @@ category: Portfolio
 
 ---
 
-Here are some of the images that were designed for SciComm and other events
+Here are some of the images that were designed for SciComm and other events!
 
 <br />
 <br />
@@ -19,7 +19,7 @@ Here are some of the images that were designed for SciComm and other events
     </div>
 </div>
 <div class="caption">
-    Infographic created to spread awareness of ADHD. Used to create pamphlets for distribution and in SciComm presentations.
+    Infographic created to spread awareness of ADHD through leaflets and in SciComm events and presentations.
 </div>
 
 <br />
@@ -32,7 +32,7 @@ Here are some of the images that were designed for SciComm and other events
     </div>
 </div>
 <div class="caption">
-    Factors that influence ADHD and therapeutical approaches.
+    Factors that contribute to the risk of ADHD development and therapeutic approaches.
 </div>
    
 <br />
@@ -70,7 +70,7 @@ Here are some of the images that were designed for SciComm and other events
 </div>
 <div class="caption">
     Left - Advertisement poster for a Master's programme<br />
-    Right - European Researcher Night project representative image
+    Right - European Researchers Night project representative image.
 </div>
 
 
