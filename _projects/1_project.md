@@ -2,7 +2,7 @@
 layout: page
 title: Research
 description: Images for research and review articles
-img: assets/img/research.jpg
+img: assets/img/5.jpg
 importance: 1
 category: Portfolio
 related_publications: false

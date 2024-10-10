@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-permalink: /Images/
+title: Illustrations
+permalink: /Illustrations/
 description: 
 nav: true
 nav_order: 2
