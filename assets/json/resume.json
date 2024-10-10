@@ -1,200 +1,483 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+    "name": "Pedro Ferreira, PhD",
+    "headline": "",
+    "email": "ferreira.pedro.ac@gmail.com",
+    "phone": "",
+    "location": "Portugal",
+    "url": {
+      "label": "",
+      "href": ""
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+    "customFields": [],
+    "picture": {
+      "url": "https://storage.rxresu.me/cm0l41dn00b2s1eafwyvpbbvf/pictures/cm0l41dn00b2s1eafwyvpbbvf.jpg",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
       }
-    ]
+    }
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p style=\"text-align: justify\">Passionate about science and how it can drive change. PhD in Neuroscience under Prof. João Peça. Detail-oriented and capable of managing mutidisciplinary teams. Extemely fast learner and proactive. Experienced in multi-language programming as well as data analysis and visualization in the context of life sciences. Passionate about developing tools to improve research. Tech enthusiast and tinkerer. </p>"
     },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": [
+        {
+          "id": "rg4uh213y7ocfxjzxi5y3my4",
+          "visible": true,
+          "title": "Top 10 Cited Article (2022-23)",
+          "awarder": "Journal of Neurochemistry",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "dd9ee4wc9qs59uv10t8nwemz",
+          "visible": true,
+          "title": "PhD Scholarship (2019-23)",
+          "awarder": "Foundation for Science and Technology Portugal",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "jmwxciyv1dbis0h7014dczpf",
+          "visible": true,
+          "title": "Top 5% MSc Students (2017-19)",
+          "awarder": "University of Coimbra",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "xcmhcjb6jwh9gsnx7eq3pzv6",
+          "visible": true,
+          "name": "EU Animal Experimentation (Rodents)",
+          "issuer": "DGAV (Portugal) | FELASA",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "j95es127hsrma3u85fmbqt6z",
+          "visible": true,
+          "name": "Driving Licence (Portugal)",
+          "issuer": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "ah031nyj7ndqrveu0de7t0xl",
+          "visible": true,
+          "institution": "PhD in Neuroscience",
+          "studyType": "",
+          "area": "University of Coimbra (2019-2024)",
+          "score": "",
+          "date": "",
+          "summary": "<p>Dissertation: \"Unraveling the role of IL-4 in the maturation and function of the cerebellar circuit: implications for neuropsychiatric diseases\"</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "cy3kp3nljt469z0z9dtiid97",
+          "visible": true,
+          "institution": "MSc in Cellular and Molecular Biology",
+          "studyType": "",
+          "area": "University of Coimbra (2017-2019)",
+          "score": "",
+          "date": "",
+          "summary": "<p>Thesis: \"Microglia-mediated remodelling of the Cerebellar Circuit\"</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ypqmr0cmstqne3ldd6ugnjna",
+          "visible": true,
+          "institution": "BSc in Biochemistry",
+          "studyType": "",
+          "area": "Univeristy of Coimbra (2014-2017)",
+          "score": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "iugpd0idd0h2tjc7b8tz0gl9",
+          "visible": true,
+          "company": "Researcher @ Center for Neuroscience and Cell Biology ",
+          "position": "Coimbra, Portugal (2015-2024) ",
+          "location": "",
+          "date": "",
+          "summary": "<ul><li><p>Authored 1 research article and co-authored 3 research articles and 2 review articles in Q1 Journals (3 more in preparation). H-Index - 5 | &gt;150 citations.</p></li><li><p>Presented my research in 4 scientific conferences and co-authored &gt;15 conference posters</p></li><li><p>Tutored &gt;10 BSc and MSc students</p></li><li><p>Create multiple workflows for rodent behavioral analysis using Bonsai, as well as different behavioral setups and arenas</p></li><li><p>Developed several scripts for data collection and analysis, as well as workflow automation</p></li><li><p>Scientifc illustration for articles, presentations and science communication in different projects</p></li><li><p>Participated in SciComm events and designed infographics, panflets and other media for promoting scientific work</p><p></p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "p0fgtixict1xo2qohtsivfx9",
+          "visible": true,
+          "name": "Portuguese (Native)",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "e19fao5d48ciylxyeb5hbytk",
+          "visible": true,
+          "name": "English",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "vl0g57qgg886vko5itm8ol81",
+          "visible": true,
+          "name": "Spanish",
+          "description": "",
+          "level": 3
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 3,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "pgbr6m8wnuyd05wuu8jgnfgv",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "LinkedIn",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/pedroacferreira/"
+          }
+        },
+        {
+          "id": "qluoqsymfh0elmhwfpkunla3",
+          "visible": true,
+          "network": "ORCID",
+          "username": "ORCID",
+          "icon": "ORCID",
+          "url": {
+            "label": "",
+            "href": "https://orcid.org/my-orcid?orcid=0000-0002-9571-0384"
+          }
+        },
+        {
+          "id": "e4rx9oge9ak1uifmmdqhzgp6",
+          "visible": true,
+          "network": "Github",
+          "username": "Github",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/ncblcnc/IL-4_project"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Other Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "gkjh471y2ovphrtzqd46wk4s",
+          "visible": true,
+          "name": "Schwarzkopf Foundation - Understanding Europe (2017-18)",
+          "description": "Founding member of the Portuguese branch of the Understanding Europe Inititative of the Schwarzkopf Foundation ",
+          "date": "",
+          "summary": "",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "sluq82htsf0wcl98xr7jxqn9",
+          "visible": true,
+          "name": "Orfeon Académico de Coimbra",
+          "description": "Treasurer (2015-16) | Supervisory Board Member (2017-21) | President (2023)",
+          "date": "",
+          "summary": "",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Science Communication",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "yair8i28qgg50q5me8kmkm7n",
+          "visible": true,
+          "name": "Science",
+          "description": "Scientific Writing | Manuscript Editing and Formatting | Literature Review | Study Design | Cross-Discipline Collaboration | Project Management | Dataset Analysis and Statistics | Data Management ",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "n5jooz01kgv5hhm759p3j0qx",
+          "visible": true,
+          "name": "Wet Lab",
+          "description": "Immunostaining | Histology | Microscopy| Electrophysiology | Optogenetics | Animal Behavior | Genetics",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "fxx9kn9umx46neqcnsadwufk",
+          "visible": true,
+          "name": "Programming",
+          "description": "Proficient - Python (+IronPython, Jython) | Intermediate - MATLAB, SQL | Entry level - R, .NET, C#, C+, Java",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "j242cz9hx5yt1s7bw96ho7xx",
+          "visible": true,
+          "name": "Software",
+          "description": "BonsaiRx | Graphpad Prism | KNIME | Office Suite | Adobe Suite (Illustrator, Photoshop, Lightroom, Premiere) | Endnote/Mendeley/Zotero",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "blgcsbjjill8f8su5p8cm53b",
+          "visible": true,
+          "name": "Others",
+          "description": "Extensive Tech Literacy | UI Design (Windows Forms, Tkinter) | Cybersecurity Best Practices | GPIO Interfacing | Basic Electronics",
+          "level": 0,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {
+      "lpfsik3nw5csvgovsxyhfhpc": {
+        "name": "Representative Work",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "lpfsik3nw5csvgovsxyhfhpc",
+        "items": [
+          {
+            "id": "k6o8lavofemiaed90kg1qco8",
+            "visible": true,
+            "name": "",
+            "description": "Research Article - Guedes and Ferreira et al. (2023). IL-4 shapes microglia-dependent pruning of the cerebellum during postnatal development. Neuron, 111(21), 3435-3449.e8. DOI: 10.1016/j.neuron.2023.09.031",
+            "date": "",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "w4b7x27wvpm3r0fen6pzm3xp",
+            "visible": true,
+            "name": "",
+            "description": "Review Article - Guedes and Ferreira et al. (2022). Microglia‐dependent remodeling of neuronal circuits. Journal of Neurochemistry, 163(2), 74–93. DOI: 10.1111/jnc.15689",
+            "date": "",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "isfy15qk0nitulnkingymecz",
+            "visible": true,
+            "name": "",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      }
     }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  },
+  "metadata": {
+    "template": "glalie",
+    "layout": [
+      [
+        [
+          "summary",
+          "experience",
+          "custom.lpfsik3nw5csvgovsxyhfhpc",
+          "volunteer",
+          "skills",
+          "references",
+          "publications",
+          "projects"
+        ],
+        [
+          "profiles",
+          "education",
+          "interests",
+          "certifications",
+          "awards",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 10,
+      "format": "a4",
+      "options": {
+        "breakLine": false,
+        "pageNumbers": false
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#475569"
+    },
+    "typography": {
+      "font": {
+        "family": "Montserrat",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 12.65
+      },
+      "lineHeight": 1.4,
+      "hideIcons": false,
+      "underlineLinks": false
+    },
+    "notes": ""
+  }
 }
