@@ -19,7 +19,7 @@ Here you can find some of the images I designed for research and review articles
         {% include figure.liquid loading="eager" path="assets/img/1.png " title="Cerebellar microglia development" class="img-fluid rounded z-depth-1" %}
 </div>
 
-<div class="caption">
+<div class="caption" text-align: center>
    <p align="center"> Representative illustration of cerebellar microglia development.</p>
 </div>
 
@@ -49,7 +49,7 @@ Here you can find some of the images I designed for research and review articles
         {% include figure.liquid loading="eager" path="assets/img/2.png" title="Microglia Functions" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
+<div class="caption" align="center">
     Microglia functions - Included in review article "Microglia‐dependent remodeling of neuronal circuits" @ doi: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jnc.15689">10.1111/jnc.15689</a>
 </div>
 
