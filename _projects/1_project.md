@@ -65,7 +65,8 @@ Here you can find some of the images I designed for research and review articles
     </div>
 </div>
 <div class="caption">
-    3D Reconstruction of a microglia cell that engulfed neuronal material
+    Left - 3D Reconstruction of a microglia cell that engulfed neuronal material<br />
+    Right - Open field test snippet with heatmap overlay
 </div>
 
 <br />
@@ -106,5 +107,5 @@ Here you can find some of the images I designed for research and review articles
     </div>
 </div>
 <div class="caption">
-    Microglia aging - included in "The old guard: Age-related changes in microglia and their consequences" @ doi: <a href="https://www.sciencedirect.com/science/article/pii/S0047637421000841">10.1016/j.mad.2021.111512</a>
+    Brain aging - included in "The old guard: Age-related changes in microglia and their consequences" @ doi: <a href="https://www.sciencedirect.com/science/article/pii/S0047637421000841">10.1016/j.mad.2021.111512</a>
 </div>
