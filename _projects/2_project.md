@@ -2,7 +2,7 @@
 layout: page
 title: SciComm
 description: Images designed for SciComm
-img: assets/img/3.jpg
+img: assets/img/8.png
 importance: 2
 category: Portfolio
 giscus_comments: true
