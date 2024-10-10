@@ -57,10 +57,10 @@ Here you can find some of the images I designed for research and review articles
 <br />
   
 <div class="row">
-    <div class="col-lg-6 mt-3 mt-md-0 align-self-center">
+    <div class="col-sm-8 mt-3 mt-md-0 align-self-center">
         {% include figure.liquid loading="eager" path="assets/img/Microglia GIF.gif" title="Microglia Gif" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-3 mt-3 mt-md-0 align-self-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/OFT.gif" title="OFT Gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

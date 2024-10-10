@@ -16,6 +16,7 @@ Here are some of the images that were designed for SciComm and other events
 <div class="row">
     <div class="col-xxl mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/9.png  " title="ADHD Infographic" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
     Infographic created to spread awareness of ADHD. Used to create pamphlets for distribution and in SciComm presentations.
@@ -28,6 +29,7 @@ Here are some of the images that were designed for SciComm and other events
 <div class="row">
     <div class="col-xxl mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/10.png  " title="ADHD Environment" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
     Factors that influence ADHD and therapeutical approaches.
