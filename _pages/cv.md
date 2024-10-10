@@ -14,6 +14,6 @@ nav_order: 4
         <meta name="viewport" content="width=device-width">
   </head>
   <body>
-    <object data="../assets/.pdf" type="application/pdf" style="min-height:100vh;width:100%"></object>
+    <object data="../assets/pdf/example_pdf.pdf" type="application/pdf" style="min-height:100vh;width:100%"></object>
   </body>
 </html>
