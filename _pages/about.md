@@ -17,12 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Pedro Ferreira, recent PhD in Neuroscience under Prof. João Peça at University of Coiombra. 
+I am Pedro Ferreira, recently finished my PhD in Neuroscience under Prof. João Peça at University of Coimbra. 
 I am passionate about science and how it can drive change. 
 Detail-oriented and capable of managing mutidisciplinary teams. Extemely fast learner and proactive.
 Experienced in multi-language programming as well as data analysis and visualization in the
 context of life sciences. Passionate about developing tools to improve research.
-Tech enthusiast and tinkerer.
+Tech enthusiast and tinkerer. In search for new opportunities outside strict academia.
 
 Here you can find some of the illustrations I created throughout my PhD, either for research and review articles or SciComm activities!
 
