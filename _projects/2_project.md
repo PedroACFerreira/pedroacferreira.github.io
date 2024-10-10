@@ -5,7 +5,7 @@ description: Images designed for SciComm
 img: assets/img/8.png
 importance: 2
 category: Portfolio
-giscus_comments: true
+
 ---
 
 Here are the images that were designed for SciComm events!
@@ -19,12 +19,12 @@ Here are the images that were designed for SciComm events!
     Infographic created to spread awareness of ADHD. Used to create pamphlets for distribution and in SciComm presentations.
 </div>
 
-\
-\
-\
+<br />
+<br />
+<br />
 
 <div class="row">
-    <div class="col-xxl mt-3 mt-md-0">
+    <div class="col-xl mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/10.png  " title="ADHD Environment" class="img-fluid rounded z-depth-1" %}
 </div>
 
@@ -32,13 +32,13 @@ Here are the images that were designed for SciComm events!
     Factors that influence ADHD and therapeutical approaches.
 </div>
    
-\
-\
-\
+<br />
+<br />
+<br />
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/11.png" title="Microglia Functions" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/11.png" title="Banner" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row justify-content-sm-center">
@@ -53,9 +53,9 @@ Here are the images that were designed for SciComm events!
     Logo and material for the IL-4ADHD project, as well as media to recruit participants for the study.
 </div>
 
-\
-\
-\
+<br />
+<br />
+<br />
 
 <div class="row justify-content-sm-center">
     <div class="col-lg mt-3 mt-md-0 align-self-center">
@@ -67,7 +67,8 @@ Here are the images that were designed for SciComm events!
 </div>
 <div class="caption">
     Left - Cerebellar circuit - included in my PhD thesis  
-    Right - Immune system in the brain - included in "The old guard: Age-related changes in microglia and their consequences" @ doi: 10.1016/j.mad.2021.111512
+    Right - Immune system in the brain - included in "The old guard: Age-related changes in microglia and their consequences" <br />
+    @ doi: 10.1016/j.mad.2021.111512
 </div>
 
 

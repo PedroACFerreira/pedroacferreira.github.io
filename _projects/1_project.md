@@ -20,7 +20,7 @@ Here you can find various images designed for publications, either research or r
 </div>
 
 <div class="caption">
-   <h1 align="center"> Representative illustration of cerebellar microglia development.</h1>
+   <p align="center"> Representative illustration of cerebellar microglia development.</p>
 </div>
 
 <br />
@@ -37,8 +37,8 @@ Here you can find various images designed for publications, either research or r
     </div>
 </div>
 <div class="caption">
-    Left - Cerebellar circuit - included in my PhD thesis<br />
-    Right - Immune system in the brain - included in "The old guard: Age-related changes in microglia and their consequences" @ doi: [10.1016/j.mad.2021.111512][10.1016/j.mad.2021.111512]
+     <p align="center"Left - Cerebellar circuit - included in my PhD thesis<br />
+    Right - Immune system in the brain - included in "The old guard: Age-related changes in microglia and their consequences"<br />@ doi: [10.1016/j.mad.2021.111512][10.1016/j.mad.2021.111512]</p>
 </div>
 
 <br />
