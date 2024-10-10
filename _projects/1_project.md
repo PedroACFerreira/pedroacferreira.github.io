@@ -1,18 +1,21 @@
 ---
 layout: page
 title: Research
-description: Images for research and review articles
-img: assets/img/5.jpg
+description: 
+img: assets/img/5.png
 importance: 1
 category: Portfolio
 related_publications: false
 ---
 
-These are images developed for different publications, either research of review articles. 
+These are various images designed for publications, either research or review articles
+  
+
 
 <div class="row">
     <div class="col-xl mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="Cerebellar microglia development" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1.png
+        " title="Cerebellar microglia development" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
     Cerebellar microglia development. 
@@ -22,16 +25,16 @@ These are images developed for different publications, either research of review
     <div class="col-lg mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-lg mt-3 mt-md-0">
+    <div class="col-lg mt-3 mt-md-0 align-self-center">
         {% include figure.liquid path="assets/img/5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left - Cerebellar circuit - included in my PhD thesis
-    Right - Microgli aging - included in "The old guard: Age-related changes in microglia and their consequences" @ doi: 10.1016/j.mad.2021.111512
+    Left - Cerebellar circuit - included in my PhD thesis  
+    Right - Microglia aging - included in "The old guard: Age-related changes in microglia and their consequences" @ doi: 10.1016/j.mad.2021.111512
 </div>
 
- 
+  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -42,12 +45,17 @@ These are images developed for different publications, either research of review
     Microglia functions - Included in review article "Microglia‐dependent remodeling of neuronal circuits" @ doi: 10.1111/jnc.15689
 </div>
 
+  
+  
+  
 <div class="row">
     <div class="col-xl mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Microglia GIF.gif" title="Microglia Gif" class="img-fluid rounded z-depth-1" %}
 </div>
-<div class="caption">
-    3D Reconstruction of a microglia cell that engulfed neuronal material
+<div class="caption align-self-center">
+    3D Reconstruction of a   
+    microglia cell that  
+    engulfed neuronal material
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
