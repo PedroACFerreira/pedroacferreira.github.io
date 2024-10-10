@@ -16,8 +16,8 @@ Here you can find some of the images I designed for research and review articles
 <div class="row">
     <div class="col-xxl mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.png " title="Cerebellar microglia development" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-
 <div class="caption">
   Representative illustration of cerebellar microglia development.
 </div>
