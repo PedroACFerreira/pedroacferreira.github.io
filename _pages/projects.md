@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Images
+title: 
 permalink: /Images/
-description: Illustration Portfolio.
+description: 
 nav: true
 nav_order: 2
 display_categories: [Portfolio]
