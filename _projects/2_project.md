@@ -1,14 +1,19 @@
 ---
 layout: page
 title: SciComm
-description: Images designed for SciComm
+description: 
 img: assets/img/8.png
 importance: 2
 category: Portfolio
 
 ---
 
-Here are the images that were designed for SciComm events!
+Here are some of the images that were designed for SciComm and other events
+
+<br />
+<br />
+<br />
+
 
 <div class="row">
     <div class="col-xxl mt-3 mt-md-0">

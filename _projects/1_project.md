@@ -37,8 +37,8 @@ Here you can find some of the images I designed for research and review articles
     </div>
 </div>
 <div class="caption">
-     <p align="center"Left - Cerebellar circuit - included in my PhD thesis<br />
-    Right - Immune system in the brain - included in "The old guard: Age-related changes in microglia and their consequences"<br />@ doi: <a href="https://www.sciencedirect.com/science/article/pii/S0047637421000841">10.1016/j.mad.2021.111512</a>
+     <p align="center">Left - Cerebellar circuit - included in my PhD thesis<br />
+    Right - Immune system in the brain - included in "The old guard: Age-related changes in microglia and their consequences"<br />@ doi: <a href="https://www.sciencedirect.com/science/article/pii/S0047637421000841">10.1016/j.mad.2021.111512</a></p>
 </div>
 
 <br />
@@ -50,7 +50,7 @@ Here you can find some of the images I designed for research and review articles
     </div>
 </div>
 <div class="caption">
-    Microglia functions - Included in review article "Microglia‐dependent remodeling of neuronal circuits" @ doi: 10.1111/jnc.15689
+    Microglia functions - Included in review article "Microglia‐dependent remodeling of neuronal circuits" @ doi: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jnc.15689">10.1111/jnc.15689</a>
 </div>
 
 <br />
@@ -94,7 +94,7 @@ Here you can find some of the images I designed for research and review articles
     
 </div>
 <div class="caption">
-    Microglia ontogeny - Included in review article "Microglia‐dependent remodeling of neuronal circuits" @ doi: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jnc.15689">10.1111/jnc.15689.
+    Microglia ontogeny - Included in review article "Microglia‐dependent remodeling of neuronal circuits" @ doi: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jnc.15689">10.1111/jnc.15689</a>
 </div>
 
 <br />
