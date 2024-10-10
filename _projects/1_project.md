@@ -19,8 +19,8 @@ Here you can find some of the images I designed for research and review articles
         {% include figure.liquid loading="eager" path="assets/img/1.png " title="Cerebellar microglia development" class="img-fluid rounded z-depth-1" %}
 </div>
 
-<div class="caption" text-align: center>
-   <p align="center"> Representative illustration of cerebellar microglia development.</p>
+<div class="caption">
+  Representative illustration of cerebellar microglia development.
 </div>
 
 <br />
@@ -37,8 +37,8 @@ Here you can find some of the images I designed for research and review articles
     </div>
 </div>
 <div class="caption">
-     <p align="center">Left - Cerebellar circuit - included in my PhD thesis<br />
-    Right - Immune system in the brain - included in "The old guard: Age-related changes in microglia and their consequences"<br />@ doi: <a href="https://www.sciencedirect.com/science/article/pii/S0047637421000841">10.1016/j.mad.2021.111512</a></p>
+    Left - Cerebellar circuit - included in my PhD thesis<br />
+    Right - Immune system in the brain - included in "The old guard: Age-related changes in microglia and their consequences"<br />@ doi: <a href="https://www.sciencedirect.com/science/article/pii/S0047637421000841">10.1016/j.mad.2021.111512</a>
 </div>
 
 <br />
@@ -58,7 +58,7 @@ Here you can find some of the images I designed for research and review articles
 <br />
   
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0 align-self-center">
+    <div class="col-lg-6 mt-3 mt-md-0 align-self-center">
         {% include figure.liquid loading="eager" path="assets/img/Microglia GIF.gif" title="Microglia Gif" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0 align-self-center">

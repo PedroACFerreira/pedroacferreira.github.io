@@ -19,7 +19,6 @@ Here are some of the images that were designed for SciComm and other events
     <div class="col-xxl mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/9.png  " title="ADHD Infographic" class="img-fluid rounded z-depth-1" %}
 </div>
-
 <div class="caption">
     Infographic created to spread awareness of ADHD. Used to create pamphlets for distribution and in SciComm presentations.
 </div>
@@ -29,10 +28,9 @@ Here are some of the images that were designed for SciComm and other events
 <br />
 
 <div class="row">
-    <div class="col-xl mt-3 mt-md-0">
+    <div class="col-xxl mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/10.png  " title="ADHD Environment" class="img-fluid rounded z-depth-1" %}
 </div>
-
 <div class="caption">
     Factors that influence ADHD and therapeutical approaches.
 </div>
@@ -71,9 +69,8 @@ Here are some of the images that were designed for SciComm and other events
     </div>
 </div>
 <div class="caption">
-    Left - Cerebellar circuit - included in my PhD thesis  
-    Right - Immune system in the brain - included in "The old guard: Age-related changes in microglia and their consequences" <br />
-    @ doi: 10.1016/j.mad.2021.111512
+    Left - Advertisement poster for a Master's programme<br />
+    Right - European Researcher Night project representative image
 </div>
 
 

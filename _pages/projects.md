@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Illustrations
-permalink: /Illustrations/
+title: portfolio
+permalink: /portfolio/
 description: 
 nav: true
 nav_order: 2
