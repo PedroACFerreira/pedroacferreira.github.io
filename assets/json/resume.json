@@ -4,7 +4,7 @@
     "headline": "",
     "email": "ferreira.pedro.ac@gmail.com",
     "phone": "",
-    "location": "Portugal",
+    "location": "Portugal"
   },
 "summary": {
       "name": "Summary",
@@ -20,36 +20,31 @@
       "separateLinks": true,
       "visible": true,
       "id": "awards",
-      "items": [
-        {
+      "items": [{
           "id": "rg4uh213y7ocfxjzxi5y3my4",
           "visible": true,
           "title": "Top 10 Cited Article (2022-23)",
           "awarder": "Journal of Neurochemistry",
           "date": "",
-          "summary": "",
+          "summary": ""
           }
-        },
+        ,
         {
           "id": "dd9ee4wc9qs59uv10t8nwemz",
           "visible": true,
           "title": "PhD Scholarship (2019-23)",
           "awarder": "Foundation for Science and Technology Portugal",
           "date": "",
-          "summary": "",
+          "summary": ""
           }
-        },
+        ,
         {
           "id": "jmwxciyv1dbis0h7014dczpf",
           "visible": true,
           "title": "Top 5% MSc Students (2017-19)",
           "awarder": "University of Coimbra",
           "date": "",
-          "summary": "",
-          "url": {
-            "label": "",
-            "href": ""
-          }
+          "summary": ""
         }
       ]
     },
@@ -66,11 +61,7 @@
           "name": "EU Animal Experimentation (Rodents)",
           "issuer": "DGAV (Portugal) | FELASA",
           "date": "",
-          "summary": "",
-          "url": {
-            "label": "",
-            "href": ""
-          }
+          "summary": ""
         },
         {
           "id": "j95es127hsrma3u85fmbqt6z",
@@ -400,7 +391,7 @@
         ]
       }
     }
-  },
+  ,
   "metadata": {
     "template": "glalie",
     "layout": [
