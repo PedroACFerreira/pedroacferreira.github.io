@@ -24,7 +24,7 @@ Here you can find some of the images I designed for research and review articles
 
 <br />
 <br />
-<br />
+
 
 
 <div class="row justify-content-sm-center">
@@ -54,23 +54,23 @@ Here you can find some of the images I designed for research and review articles
 
 <br />
 <br />
-<br />
+
   
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0 align-self-center">
+    <div class="col-lg-8 mt-3 mt-md-0 align-self-center">
         {% include figure.liquid loading="eager" path="assets/img/Microglia GIF.gif" title="Microglia Gif" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-lg-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/OFT.gif" title="OFT Gif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption align-self-center">
+<div class="caption">
     3D Reconstruction of a microglia cell that engulfed neuronal material
 </div>
 
 <br />
 <br />
-<br />
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -83,7 +83,7 @@ Here you can find some of the images I designed for research and review articles
 
 <br />
 <br />
-<br />
+
 
 
 <div class="row">
@@ -98,7 +98,7 @@ Here you can find some of the images I designed for research and review articles
 
 <br />
 <br />
-<br />
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
