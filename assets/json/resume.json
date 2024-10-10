@@ -5,25 +5,8 @@
     "email": "ferreira.pedro.ac@gmail.com",
     "phone": "",
     "location": "Portugal",
-    "url": {
-      "label": "",
-      "href": ""
-    },
-    "customFields": [],
-    "picture": {
-      "url": "https://storage.rxresu.me/cm0l41dn00b2s1eafwyvpbbvf/pictures/cm0l41dn00b2s1eafwyvpbbvf.jpg",
-      "size": 64,
-      "aspectRatio": 1,
-      "borderRadius": 0,
-      "effects": {
-        "hidden": false,
-        "border": false,
-        "grayscale": false
-      }
-    }
   },
-  "sections": {
-    "summary": {
+"summary": {
       "name": "Summary",
       "columns": 1,
       "separateLinks": true,
@@ -31,7 +14,7 @@
       "id": "summary",
       "content": "<p style=\"text-align: justify\">Passionate about science and how it can drive change. PhD in Neuroscience under Prof. João Peça. Detail-oriented and capable of managing mutidisciplinary teams. Extemely fast learner and proactive. Experienced in multi-language programming as well as data analysis and visualization in the context of life sciences. Passionate about developing tools to improve research. Tech enthusiast and tinkerer. </p>"
     },
-    "awards": {
+"awards": {
       "name": "Awards",
       "columns": 1,
       "separateLinks": true,
@@ -45,9 +28,6 @@
           "awarder": "Journal of Neurochemistry",
           "date": "",
           "summary": "",
-          "url": {
-            "label": "",
-            "href": ""
           }
         },
         {
@@ -57,9 +37,6 @@
           "awarder": "Foundation for Science and Technology Portugal",
           "date": "",
           "summary": "",
-          "url": {
-            "label": "",
-            "href": ""
           }
         },
         {
@@ -76,7 +53,7 @@
         }
       ]
     },
-    "certifications": {
+"certifications": {
       "name": "Certifications",
       "columns": 1,
       "separateLinks": true,
