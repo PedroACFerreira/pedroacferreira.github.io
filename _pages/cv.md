@@ -7,7 +7,13 @@ nav: true
 nav_order: 4
 ---
 
-<div class="row justify-content-sm-center">
-    <object data="../assets/pdf/example_pdf.pdf" type='application/pdf'></object>
-</div>
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width">
+  </head>
+  <body>
+    <object data="assets/pdf/example_pdf.pdf" type="application/pdf" style="min-height:100vh;width:100%"></object>
+  </body>
+</html>
