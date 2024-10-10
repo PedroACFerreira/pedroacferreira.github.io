@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Portfolio
+subtitle: 
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey there! I recently finished my PhD in Neuroscience under the supervision of Prof. João Peça at University of Coimbra and am now in search for new opportunities outside strict academia.
+I recently finished my PhD in Neuroscience under the supervision of Prof. João Peça at University of Coimbra and am now in search for new opportunities outside strict academia.
 I am incredibdly passionate about science and how it can drive positive change! 
 Detail-oriented and capable of managing mutidisciplinary teams. Extemely fast learner and proactive. 
 Experienced in programming with multiple languages as well as data analysis, statistics and visualization tools in the
@@ -26,6 +26,7 @@ context of life sciences. Tech enthusiast and tinkerer with a love for developin
 
 Here you can find some of the illustrations I created throughout my PhD, either for research and review articles or SciComm activities!
 
+<h2 href="/portfolio"> Check my portfolio here! </h2>
 
 
 <div class="row justify-content-sm-center">
