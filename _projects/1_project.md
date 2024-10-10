@@ -8,7 +8,7 @@ category: Portfolio
 related_publications: false
 ---
 
-These are various images designed for publications, either research or review articles
+Here you can find various images designed for publications, either research or review articles
 <br />
 <br />
 <br />
@@ -19,8 +19,8 @@ These are various images designed for publications, either research or review ar
         {% include figure.liquid loading="eager" path="assets/img/1.png " title="Cerebellar microglia development" class="img-fluid rounded z-depth-1" %}
 </div>
 
-<div class="caption justify-content-sm-center">
-    Cerebellar microglia development. 
+<div class="caption align-center">
+    Representative illustration of cerebellar microglia development. 
 </div>
 
 <br />
@@ -37,7 +37,7 @@ These are various images designed for publications, either research or review ar
     </div>
 </div>
 <div class="caption">
-    Left - Cerebellar circuit - included in my PhD thesis  
+    Left - Cerebellar circuit - included in my PhD thesis<br />
     Right - Immune system in the brain - included in "The old guard: Age-related changes in microglia and their consequences" @ doi: 10.1016/j.mad.2021.111512
 </div>
 
