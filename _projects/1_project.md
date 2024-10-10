@@ -2,7 +2,7 @@
 layout: page
 title: Research
 description: 
-img: assets/img/5.png
+img: assets/img/cover1.png
 importance: 1
 category: Portfolio
 related_publications: false
