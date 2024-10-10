@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey there! I recently finished my PhD in Neuroscience under Prof. João Peça at University of Coimbra and am now in search for new opportunities outside strict academia.
+Hey there! I recently finished my PhD in Neuroscience under the supervision of Prof. João Peça at University of Coimbra and am now in search for new opportunities outside strict academia.
 I am incredibdly passionate about science and how it can drive positive change. 
 Detail-oriented and capable of managing mutidisciplinary teams. Extemely fast learner and proactive.
 Experienced in multi-language programming as well as data analysis and visualization in the

@@ -53,7 +53,7 @@ Here are some of the images that were designed for SciComm and other events
     </div>
 </div>
 <div class="caption">
-    Logo and material for the IL-4ADHD project, as well as media to recruit participants for the study.
+    Logo and banner for the IL-4ADHD project and material used to recruit participants for the study.
 </div>
 
 <br />
