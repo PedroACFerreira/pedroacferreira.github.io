@@ -8,7 +8,7 @@ category: Portfolio
 related_publications: false
 ---
 
-Here you can find various images designed for publications, either research or review articles
+Here you can find some of the images I designed for research and review articles.
 <br />
 <br />
 <br />
@@ -38,7 +38,7 @@ Here you can find various images designed for publications, either research or r
 </div>
 <div class="caption">
      <p align="center"Left - Cerebellar circuit - included in my PhD thesis<br />
-    Right - Immune system in the brain - included in "The old guard: Age-related changes in microglia and their consequences"<br />@ doi: [10.1016/j.mad.2021.111512][10.1016/j.mad.2021.111512]</p>
+    Right - Immune system in the brain - included in "The old guard: Age-related changes in microglia and their consequences"<br />@ doi: <a href="https://www.sciencedirect.com/science/article/pii/S0047637421000841">10.1016/j.mad.2021.111512</a>
 </div>
 
 <br />
@@ -94,7 +94,7 @@ Here you can find various images designed for publications, either research or r
     
 </div>
 <div class="caption">
-    Microglia ontogeny - Included in review article "Microglia‐dependent remodeling of neuronal circuits" @ doi: 10.1111/jnc.15689
+    Microglia ontogeny - Included in review article "Microglia‐dependent remodeling of neuronal circuits" @ doi: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jnc.15689">10.1111/jnc.15689.
 </div>
 
 <br />
@@ -107,5 +107,5 @@ Here you can find various images designed for publications, either research or r
     </div>
 </div>
 <div class="caption">
-    Microglia aging - included in "The old guard: Age-related changes in microglia and their consequences" @ doi: 10.1016/j.mad.2021.111512
+    Microglia aging - included in "The old guard: Age-related changes in microglia and their consequences" @ doi: <a href="https://www.sciencedirect.com/science/article/pii/S0047637421000841">10.1016/j.mad.2021.111512</a>
 </div>
