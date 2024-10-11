@@ -29,6 +29,6 @@ Here you can find some of the illustrations I created throughout my PhD, either 
 <h3 align="center"><a href="https://pedroacferreira.github.io/portfolio"> Check my portfolio here! </a></h3>
 
 <div class="row">
-[<img src="assets/img/about_img.png">](https://pedroacferreira.github.io/portfolio)
+[<img alt="glia" src="../assets/img/1.png" />][https://pedroacferreira.github.io/portfolio]
 </div>
 
