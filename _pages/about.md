@@ -26,11 +26,8 @@ context of life sciences. Tech enthusiast and tinkerer with a love for developin
 
 Here you can find some of the illustrations I created throughout my PhD, either for research and review articles or SciComm activities!
 
-<h3 align="center" href="https://pedroacferreira.github.io/portfolio"> Check my portfolio here! </h3>
+<h3 align="center"><a href="https://pedroacferreira.github.io/portfolio"> Check my portfolio here! </a></h3>
+
+[<img src="assets/img/about_img.png">](https://pedroacferreira.github.io/portfolio)
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-md mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/about_img.png"  class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
