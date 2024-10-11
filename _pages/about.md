@@ -26,11 +26,11 @@ context of life sciences. Tech enthusiast and tinkerer with a love for developin
 
 Here you can find some of the illustrations I created throughout my PhD, either for research and review articles or SciComm activities!
 
-<h3 align="center"><a href="https://pedroacferreira.github.io/portfolio"> Check my portfolio here! </a></h3>
+<h3 align="center"><a href="https://pedroacferreira.github.io/portfolio" text-decoration: none;"> Check my portfolio here! </a></h3>
 
 <div class="row">
-    <div class="col-xxl mt-3 mt-md-0">
-       [![Glia](../assets/img/1.png)](https://pedroacferreira.github.io/portfolio)
+    <div class="col-xl mt-3 mt-md-0">
+       {% include figure.liquid loading="eager" path="assets/img/1.png " title="Cerebellar microglia development" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
