@@ -4,7 +4,7 @@ title: Research
 description: 
 img: assets/img/cover1.png
 importance: 1
-category: Portfolio
+category: Categories
 related_publications: false
 ---
 

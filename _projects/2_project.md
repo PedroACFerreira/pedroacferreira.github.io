@@ -4,7 +4,7 @@ title: SciComm
 description: 
 img: assets/img/8.png
 importance: 2
-category: Portfolio
+category: Categories
 
 ---
 

@@ -5,7 +5,7 @@ permalink: /portfolio/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Portfolio]
+display_categories: [Categories]
 horizontal: false
 ---
 
