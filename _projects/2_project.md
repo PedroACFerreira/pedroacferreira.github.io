@@ -62,10 +62,7 @@ Here are some of the images that were designed for SciComm and other events!
 
 <div class="row justify-content-sm-center">
     <div class="col-lg mt-3 mt-md-0 align-self-center">
-        {% include figure.liquid path="assets/img/14.png" title="MBCM" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-lg mt-3 mt-md-0 align-self-center">
-        {% include figure.liquid path="assets/img/15.png" title="EUResearcherNight" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/16.png" title="MBCM" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
